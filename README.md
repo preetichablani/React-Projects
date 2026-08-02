@@ -13,6 +13,7 @@ This repository contains three React assignments built using **React.js** and **
 📂 Projects Included
 
 🔹 Assignment 1 – Trending Products
+
 A responsive product showcase application built with reusable React components.
 
 **Key Features**
@@ -25,6 +26,7 @@ A responsive product showcase application built with reusable React components.
 ---
 
 🔹 Assignment 2 – Todo List
+
 A task management application that allows users to organize daily activities efficiently.
 
 **Key Features**
@@ -37,6 +39,7 @@ A task management application that allows users to organize daily activities eff
 ---
 
 🔹 Assignment 3 – Workshop Registration Form
+
 A responsive registration form with validation and controlled components.
 
 **Key Features**
