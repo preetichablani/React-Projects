@@ -66,6 +66,7 @@ Clone the repository
 git clone https://github.com/preetichablani/React-Projects.git
 ```
 
+---
 
 📌 Learning Outcomes
 
